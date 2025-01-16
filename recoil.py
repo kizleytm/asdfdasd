@@ -40,7 +40,7 @@ else:
 class RecoilMacroApp(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Clavish.cc Recoil")
+        self.title("Noxar.WTF")
         self.geometry("800x600")
         ctk.set_appearance_mode("dark")
         ctk.set_default_color_theme("green")
